@@ -1,0 +1,56 @@
+body
+{
+	background: url('wall1.jpg');
+	background-size: cover;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name
+{
+	display: inline-block;
+	color: black;
+	margin-right: 20px;
+	font-size: 30px;
+}
+
+ #player2_name 
+ {
+	display: inline-block;
+	color: black;
+	margin-right: 20px;
+	font-size: 30px;
+ }
+#player1_score, #player2_score
+{
+	font-size: 30px; 
+}
+
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#mounei{
+	font-family: 'Kanit', sans-serif;
+	font-size: 40px;
+}
